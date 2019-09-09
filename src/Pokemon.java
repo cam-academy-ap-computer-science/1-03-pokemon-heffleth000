@@ -7,6 +7,7 @@ public class Pokemon {
 		System.out.println("(\\__/)");
 		System.out.println("(o^.^)");
 		System.out.println("z(_(\") (\")");
+		//updated
 	}
 
 }
